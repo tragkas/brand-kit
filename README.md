@@ -1,5 +1,5 @@
 ## Business Brand Kit Information Form
 
-Access the Form: 
+Access the Form: https://drive.google.com/file/d/15tVx0yHlkpmpC9PEDFnOisBienjyPLQE/view?usp=drive_link
 
-[Business Brand Kit Information Form.pdf](https://github.com/tragkas/brand-kit/files/14923632/Business.Brand.Kit.Information.Form.pdf)
+
